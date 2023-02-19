@@ -1,7 +1,4 @@
-/*
- * File: 
- * Auth: Brennan D Baraban
- */
+
 
 #include <stdio.h>
 
