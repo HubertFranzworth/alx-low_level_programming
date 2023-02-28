@@ -12,7 +12,7 @@
 
 int main(void)
 {
-	_putchar('p');
+	_putchar('_p');
 	_putchar('u');
 	_putchar('t');
 	_putchar('c');
