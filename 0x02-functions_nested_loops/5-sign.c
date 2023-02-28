@@ -1,4 +1,8 @@
-include "main.h"
+/*
+ * File: 5-sign.c
+ */
+
+#include "main.h"
 
 /**
  * print_sign - Prints the sign of a number.
