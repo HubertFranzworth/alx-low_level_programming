@@ -1,4 +1,3 @@
-
 /*
  * File: _printf.c    
  */
